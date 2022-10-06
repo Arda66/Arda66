@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Arda66
+- 🎓 I graduated from Computer Engineering
 - 👀 I’m interested in Artifical Intelligence, Mobile app Development
 - 🌱 I’m currently learning deep learning with tensorflow and React-native
 
