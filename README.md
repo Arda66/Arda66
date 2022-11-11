@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Arda66<br>🎓 I graduated in Computer Engineering<br>👀 I’m interested in Artificial Intelligence, Mobile App Development<br>🌱 I’m currently learning deep learning with Keras and React-native for cross-platform mobile app development<br><br>I'm looking for new job opportunities.
+👋 Hi, I’m @Arda66<br>🎓 I graduated in Computer Engineering<br>👀 I’m interested in Artificial Intelligence, Mobile App Development and Front-End Development<br>🌱 I’m currently learning deep learning with Keras and React-native for cross-platform mobile app development and HTML,CSS for websites<br><br>I'm looking for new job opportunities.
 
 
 ## 🌐 Socials:
