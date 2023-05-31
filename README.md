@@ -1,8 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Arda66<br>🎓 I graduated in Computer Engineering<br>👀 I’m interested in Artificial Intelligence, Mobile App Development and Front-End Development<br>🌱 I’m currently learning deep learning with Keras and React-native for cross-platform mobile app development and HTML,CSS,React.js for front-end development<br><br> 
-Right now I am working as a React Native Developer.
-I'm looking for new job opportunities.
-
+Right now I am working as a React Native Developer.<br>
+I am open to new job opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-dumano%C4%9Flu/) 
