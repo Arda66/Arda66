@@ -4,8 +4,7 @@ Right now, I am working as a React Native developer. <br>
 I am open to new job opportunities.<br>
 
 I published my own apps to the Google Play Store:
-
-https://play.google.com/store/apps/details?id=com.nationalitychecker
+https://play.google.com/store/apps/details?id=com.nationalitychecker<br>
 https://play.google.com/store/apps/details?id=com.randomjokegenerator
 
 
