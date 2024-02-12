@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Arda66<br>🎓 I graduated in Computer Engineering with a 3.29 Cumulative GPA<br>👀 I’m interested in Artificial Intelligence, Mobile App Development, and Front-End Development<br>🌱 I’m working on React-native for cross-platform mobile app development and HTML,CSS,React.js for front-end development<br><br> 
+👋 Hi, I’m @Arda66<br>🎓 I graduated in Computer Engineering(100% English) with a 3.29 Cumulative GPA<br>👀 I’m interested in Artificial Intelligence, Mobile App Development, and Front-End Development<br>🌱 I’m working on React-native for cross-platform mobile app development and HTML,CSS,React.js for front-end development<br><br> 
 Right now, I am working as a React Native developer. <br>
 I am open to new job opportunities.<br>
 
