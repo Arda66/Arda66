@@ -5,7 +5,8 @@ I am open to new job opportunities.<br>
 
 I published my apps to the Google Play Store: <br>
 https://play.google.com/store/apps/details?id=com.nationalitychecker <br>
-https://play.google.com/store/apps/details?id=com.randomjokegenerator 
+https://play.google.com/store/apps/details?id=com.randomjokegenerator <br>
+https://play.google.com/store/apps/details?id=com.masterqrcode
 
 
 ## 🌐 Socials:
