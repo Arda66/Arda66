@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m Arda<br>🎓 I graduated in Computer Engineering(100% English) with a 3.29 Cumulative GPA<br>👀 I’m interested in Artificial Intelligence, Mobile App Development, and Front-End Development<br>🌱 I’m working on React-native for cross-platform mobile app development and HTML, CSS, React, Typescript for front-end development<br><br>Right now, I have more than 3+ years of experience as a React Native Developer.<br>I am open to new job opportunities.<br><br>I published my apps to the Google Play Store:<br>https://play.google.com/store/apps/developer?id=Arda+Dumanoglu
 
-My Portfolio and Certificates: https://bento.me/arda-dumanoglu
+My Portfolio: https://www.ardadumanoglu.tech
+My Certificates: https://bento.me/arda-dumanoglu
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arda-dumanoglu/) 
